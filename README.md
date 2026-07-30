@@ -3,7 +3,7 @@
 ```ts
 import { UserBot } from "./lib/client/UserBot";
 const me = await UserBot.init(
-  "your email pass",
+  "your stoat email",
   "your stoat pass",
   ".", // command prefixes
 );
